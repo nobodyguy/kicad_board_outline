@@ -1,2 +1,2 @@
 # Board outline generator
-Board outline generator plugin for KiCAD 6.X
+Board outline generator plugin for KiCAD 7.X
