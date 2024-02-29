@@ -1,2 +1,2 @@
-from .board_outline import BoardOutlinePlugin
+from .plugin import BoardOutlinePlugin
 BoardOutlinePlugin().register()
